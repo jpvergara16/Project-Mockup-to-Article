@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+          Personally some of the newer things I've learned were the new pathways for files and the figure elements. I've also learned how the mockup process (or at least a hint of it) during this part of the program. The easiest bits were the structure elements (p,h1, a href, etc..). The difficult parts was the figure element strategy, which I research on while learning and learned a new way to image and caption. The problem solving strategies I've learned were to reference, review, and research my code and the pathways that I did for my workflow. Being a simple exercise, I found most of the help from the definitions of the codes.
