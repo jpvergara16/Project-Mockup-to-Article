@@ -1,2 +1,2 @@
-# Project-Mockup-to-Article
-Udacity: Front End Web Development Project - "Mockup to Article"
+Udacity Projects
+Udacity: Front End Web Development Projects
